@@ -13,6 +13,7 @@ In the project directory, you can run:
 ```bash
 npm install 
 ```
+Install all the dependencies (libraries) that have been used in the project for its execution
 
 ## Run Dev Server
 ```bash
